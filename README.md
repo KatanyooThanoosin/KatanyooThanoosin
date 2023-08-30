@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KatanyooThanoosin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="KatanyooThanoosin's GitHub stats" /><br>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatanyooThanoosin&layout=compact&theme=" alt=KatanyooThanoosin />
+  <img src="https://github-readme-stats.vercel.app/api?username=KatanyooThanoosin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="KatanyooThanoosin's GitHub stats" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatanyooThanoosin&layout=compact&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=22272e&hide_border=true" alt=KatanyooThanoosin />
 </div>
 
 ###
